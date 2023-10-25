@@ -7,7 +7,7 @@ Binance-Leaderboard-CopyTrading allows users to automate their trading strategie
 - Trade Scraping: Automatically scrape trades from the Binance leaderboard.
 - Bybit Integration: Replicate trades directly on your Bybit account.
 - Telegram Bot: Seamless interaction and configuration using a dedicated bot.
-- Coinable Commerce Integration: Planning to sell? Integrate with Coinable Commerce with ease.
+- Coinbase Commerce Integration: Planning to sell? Integrate with Coinable Commerce with ease.
 
 ## Getting Started
 
