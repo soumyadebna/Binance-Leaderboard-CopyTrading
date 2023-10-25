@@ -212,7 +212,7 @@ def create_welcome_keyboard(abonnement, copybot):
     else:
         button3 = telebot.types.InlineKeyboardButton('👥 Traders', callback_data='button3')
         button5 = telebot.types.InlineKeyboardButton('🔑 Abonnement', callback_data='button5')
-        button7 = telebot.types.InlineKeyboardButton('🖥️ Support', url='https://t.me/trading_bcv')
+        button7 = telebot.types.InlineKeyboardButton('🖥️ Support', url='https://t.me/')
         keyboard.add(button5)
         keyboard.add(button3)
         keyboard.add(button7)
