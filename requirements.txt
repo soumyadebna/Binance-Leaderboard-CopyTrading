@@ -1,0 +1,12 @@
+telebot
+re
+threading
+json
+time
+os
+datetime
+coinbase-commerce
+logging
+python-dotenv
+requests
+pybit
